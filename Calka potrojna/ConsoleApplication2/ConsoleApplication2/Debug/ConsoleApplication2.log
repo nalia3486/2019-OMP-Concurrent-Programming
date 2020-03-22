@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+c:\users\nati\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(13): warning C4566: znak przedstawiony przez nazwę zawierającą znaki uniwersalne "\u0105" nie może być przedstawiony w bieżącej stronie kodowej (1252)
+  ConsoleApplication2.vcxproj -> c:\users\nati\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe

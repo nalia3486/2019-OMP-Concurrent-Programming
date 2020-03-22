@@ -1,0 +1,3 @@
+﻿  Calka potrojna.cpp
+c1xx : warning C4199: dwufazowe wyszukiwanie nazw nie jest obsługiwane w trybie C++/CLI, C++/CX ani OpenMP, użyj wartości /Zc:twoPhase-
+  Calka potrojna.vcxproj -> C:\Users\Nati\source\repos\Calka potrojna\Debug\Calka potrojna.exe

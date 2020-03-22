@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+c1xx : warning C4199: dwufazowe wyszukiwanie nazw nie jest obsługiwane w trybie C++/CLI, C++/CX ani OpenMP, użyj wartości /Zc:twoPhase-
+  ConsoleApplication2.vcxproj -> C:\Users\Nati\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

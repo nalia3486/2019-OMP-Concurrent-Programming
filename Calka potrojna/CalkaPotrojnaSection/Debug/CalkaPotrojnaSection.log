@@ -1,0 +1,6 @@
+﻿  CalkaPotrojnaSection.cpp
+c1xx : warning C4199: dwufazowe wyszukiwanie nazw nie jest obsługiwane w trybie C++/CLI, C++/CX ani OpenMP, użyj wartości /Zc:twoPhase-
+c:\users\nati\source\repos\calka potrojna\calkapotrojnasection\calkapotrojnasection.cpp(79): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\nati\source\repos\calka potrojna\calkapotrojnasection\calkapotrojnasection.cpp(94): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\nati\source\repos\calka potrojna\calkapotrojnasection\calkapotrojnasection.cpp(109): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+  CalkaPotrojnaSection.vcxproj -> C:\Users\Nati\source\repos\Calka potrojna\Debug\CalkaPotrojnaSection.exe
